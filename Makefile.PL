@@ -1,6 +1,6 @@
 use inc::Module::Install;
 
-name          'Egg\-Model\-Cache';
+name          'Egg-Model-Cache';
 all_from      'lib/Egg/Model/Cache.pm';
 version_from  'lib/Egg/Model/Cache.pm';
 abstract_from 'lib/Egg/Model/Cache.pm';

@@ -2,12 +2,12 @@ package Egg::Model::Cache;
 #
 # Masatoshi Mizuno E<lt>lusheE<64>cpan.orgE<gt>
 #
-# $Id: Cache.pm 293 2008-02-28 11:00:55Z lushe $
+# $Id: Cache.pm 315 2008-04-17 11:33:06Z lushe $
 #
 use strict;
 use warnings;
 
-our $VERSION= '0.01';
+our $VERSION= '3.01';
 
 sub _setup {
 	my($class, $e)= @_;
